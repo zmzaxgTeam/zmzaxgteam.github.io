@@ -1,0 +1,574 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/index.html",
+            "path": "index.html",
+            "saved": true,
+            "size": 36807,
+            "children": [
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/slider1.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/computer.jpg",
+                    "saved": false
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/pf1.jpg",
+                    "path": "img/pf1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/pf2.jpg",
+                    "path": "img/pf2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/pf3.jpg",
+                    "path": "img/pf3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/pf4.jpg",
+                    "path": "img/pf4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/pf5.jpg",
+                    "path": "img/pf5.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/pf6.jpg",
+                    "path": "img/pf6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/testi-1.jpg",
+                    "path": "img/testi-1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/testi-2.jpg",
+                    "path": "img/testi-2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/testi-3.jpg",
+                    "path": "img/testi-3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/blog1.jpg",
+                    "path": "img/blog1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/blog2.jpg",
+                    "path": "img/blog2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/blog3.jpg",
+                    "path": "img/blog3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/team1.png",
+                    "path": "img/team1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/team2.png",
+                    "path": "img/team2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/team3.png",
+                    "path": "img/team3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/client1.jpg",
+                    "path": "img/client1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/client2.jpg",
+                    "path": "img/client2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/client3.jpg",
+                    "path": "img/client3.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/client4.jpg",
+                    "path": "img/client4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/client5.jpg",
+                    "path": "img/client5.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/client6.jpg",
+                    "path": "img/client6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/ruby.png",
+                    "path": "img/ruby.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 85577,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "saved": true,
+                    "size": 37045,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/colors.js",
+                    "path": "js/colors.js",
+                    "saved": true,
+                    "size": 1250,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.nav.js",
+                    "path": "js/jquery.nav.js",
+                    "saved": true,
+                    "size": 5138,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.scrollUp.min.js",
+                    "path": "js/jquery.scrollUp.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.slicknav.min.js",
+                    "path": "js/jquery.slicknav.min.js",
+                    "saved": true,
+                    "size": 8415,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/waypoints.min.js",
+                    "path": "js/waypoints.min.js",
+                    "saved": true,
+                    "size": 8044,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/owl.carousel.min.js",
+                    "path": "js/owl.carousel.min.js",
+                    "saved": true,
+                    "size": 43237,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/isotope.pkgd.min.js",
+                    "path": "js/isotope.pkgd.min.js",
+                    "saved": true,
+                    "size": 35313,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8415,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.stellar.min.js",
+                    "path": "js/jquery.stellar.min.js",
+                    "saved": true,
+                    "size": 12597,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.magnific-popup.min.js",
+                    "path": "js/jquery.magnific-popup.min.js",
+                    "saved": true,
+                    "size": 20216,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/animate-text.js",
+                    "path": "js/animate-text.js",
+                    "saved": true,
+                    "size": 5532,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/particles.min.js",
+                    "path": "js/particles.min.js",
+                    "saved": true,
+                    "size": 23364,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/particle-code.js",
+                    "path": "js/particle-code.js",
+                    "saved": true,
+                    "size": 2036,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/jquery.counterup.min.js",
+                    "path": "js/jquery.counterup.min.js",
+                    "saved": true,
+                    "size": 1067,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/gmaps.min.js",
+                    "path": "js/gmaps.min.js",
+                    "saved": true,
+                    "size": 31936,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/js/main.js",
+                    "path": "js/main.js",
+                    "saved": true,
+                    "size": 4416,
+                    "children": []
+                },
+                {
+                    "url": "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i",
+                    "saved": false
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 121197,
+                    "children": [
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/glyphicons-halflings-regular.eot",
+                            "path": "fonts/glyphicons-halflings-regular.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/glyphicons-halflings-regular.woff2",
+                            "path": "fonts/glyphicons-halflings-regular.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/glyphicons-halflings-regular.woff",
+                            "path": "fonts/glyphicons-halflings-regular.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/glyphicons-halflings-regular.ttf",
+                            "path": "fonts/glyphicons-halflings-regular.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular",
+                            "path": "img/glyphicons-halflings-regular.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/slicknav.min.css",
+                    "path": "css/slicknav.min.css",
+                    "saved": true,
+                    "size": 2505,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/bootstrap-theme.min.css",
+                    "path": "css/bootstrap-theme.min.css",
+                    "saved": true,
+                    "size": 23409,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/owl.carousel.min.css",
+                    "path": "css/owl.carousel.min.css",
+                    "saved": true,
+                    "size": 3440,
+                    "children": [
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/owl.video.play.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/owl.theme.default.min.css",
+                    "path": "css/owl.theme.default.min.css",
+                    "saved": true,
+                    "size": 936,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/animate.min.css",
+                    "path": "css/animate.min.css",
+                    "saved": true,
+                    "size": 16952,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/animate-text.css",
+                    "path": "css/animate-text.css",
+                    "saved": true,
+                    "size": 25709,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/magnific-popup.css",
+                    "path": "css/magnific-popup.css",
+                    "saved": true,
+                    "size": 6951,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "saved": true,
+                    "size": 30959,
+                    "children": [
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/fontawesome-webfont.eot?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/fontawesome-webfont.woff?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/fontawesome-webfont.ttf?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/normalize.css",
+                    "path": "css/normalize.css",
+                    "saved": true,
+                    "size": 7687,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 39267,
+                    "children": [
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/breadgramb_bg.jpg",
+                            "path": "img/breadgramb_bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/testi-bg.jpg",
+                            "path": "img/testi-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/fun-bg.jpg",
+                            "path": "img/fun-bg.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/responsive.css",
+                    "path": "css/responsive.css",
+                    "saved": true,
+                    "size": 3396,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/color/color7.css",
+                    "path": "css/color7.css",
+                    "saved": true,
+                    "size": 2500,
+                    "children": []
+                },
+                {
+                    "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/img/header-logo1.png",
+                    "path": "img/header-logo1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "www-cssmoban-com-azre3chc",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/css/font-awesome.min.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/index.html",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Wed, 08 Sep 2021 02:01:51 GMT",
+                "content-type": "text/html",
+                "last-modified": "Tue, 07 Sep 2021 06:49:27 GMT",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"61370b77-8f43\"",
+                "access-control-allow-origin": "*"
+            }
+        },
+        "time": {
+            "start": "2021-09-08T02:01:50.725Z",
+            "end": "2021-09-08T02:02:30.169Z"
+        },
+        "remark": [
+            "使用扒取 [模板之家cssMoban.com] 模式，未经版权人许可，不得做为商业用途"
+        ],
+        "ip": "220.200.138.77",
+        "url": "http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/index.html",
+        "main": "index.html",
+        "domain": "www.cssmoban.com",
+        "origin": "http://www.cssmoban.com,http://demo.kangjingept.com:8020",
+        "totalSize": "655 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://www.cssmoban.com/preview/index.html?url=http://demo.kangjingept.com:8020/cssthemes6/oyqj-0907-18/index.html&id=27508&tid=20125072756579",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
